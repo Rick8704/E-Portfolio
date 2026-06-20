@@ -9,7 +9,7 @@
 
 ---
 
-## Who I Am
+## About Me
 
 Third-year Data Engineering student based in Johor Bahru. I build things with data — from raw SQL queries and relational schemas to analytics pipelines and cloud workflows. This portfolio documents what I have built, learned, and reflected on across six semesters at UTM.
 
