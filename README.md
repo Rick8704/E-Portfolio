@@ -1,6 +1,6 @@
 # 📂 Ng Yu Hin — Data Engineering E-Portfolio
 
-> **SECP3843 · Special Topic in Data Engineering · Semester II 2025/2026**
+> **SECP3843 · Special Topic in Data Engineering · Semester II 2025/2026**  
 > Universiti Teknologi Malaysia · Bachelor of Computer Science (Data Engineering)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rick8704-181717?style=flat-square&logo=github)](https://github.com/Rick8704)
@@ -41,91 +41,20 @@ E-Portfolio/
 
 ## 📅 Academic Timeline
 
-### 🔹 Year 1 · Semester 1
-> Foundations of computing, logic, and programming
-
-| Code | Subject | Key Work |
-|------|---------|----------|
-| — | Technology & Information System | [View →](Y1S1/TIS) |
-| — | Discrete Structure | [View →](Y1S1/DS) |
-| — | Digital Logic | [View →](Y1S1/DL) |
-| — | Programming Technique I (C++) | [View →](Y1S1/PT1) |
-
-<details>
-<summary>Semester reflection</summary>
-
-> *To be updated.*
-
-</details>
+| Period | Subjects | Folder |
+|--------|----------|--------|
+| ![Y1S1](https://img.shields.io/badge/Y1_S1-378ADD?style=flat-square&logoColor=white) | Technology & Information System · Discrete Structure · Digital Logic · Programming Technique I | [Y1S1/ →](Y1S1) |
+| ![Y1S2](https://img.shields.io/badge/Y1_S2-185FA5?style=flat-square&logoColor=white) | Probability & Statistical Data Analysis · Programming Technique II · System Analysis and Design · Computer Organization and Architecture · Human Computer Interaction | [Y1S2/ →](Y1S2) |
+| ![Y2S1](https://img.shields.io/badge/Y2_S1-1D9E75?style=flat-square&logoColor=white) | Data Structure and Algorithm · Database · Software Engineering · System Development Technology · Network Communications | [Y2S1/ →](Y2S1) |
+| ![Y2S2](https://img.shields.io/badge/Y2_S2-0F6E56?style=flat-square&logoColor=white) | Object Oriented Programming · Data Mining · Data Analytics Programming · Operating Systems | [Y2S2/ →](Y2S2) |
+| ![Y3S1](https://img.shields.io/badge/Y3_S1-534AB7?style=flat-square&logoColor=white) | Artificial Intelligence · Database Programming · Enterprise Systems Design and Modeling | [Y3S1/ →](Y3S1) |
+| ![Y3S2](https://img.shields.io/badge/Y3_S2-3C3489?style=flat-square&logoColor=white) | **Special Topic in Data Engineering (SECP3843)** · Application Development · High Performance Data Processing · Business Intelligence | [Y3S2/ →](Y3S2) |
 
 ---
 
-### 🔹 Year 1 · Semester 2
-> *(Subjects to be updated)*
+## 📋 SECP3843 Coursework
 
-| Code | Subject | Key Work |
-|------|---------|----------|
-| — | *(Coming soon)* | — |
-
-<details>
-<summary>Semester reflection</summary>
-
-> *To be updated.*
-
-</details>
-
----
-
-### 🔹 Year 2 · Semester 1
-> *(Subjects to be updated)*
-
-| Code | Subject | Key Work |
-|------|---------|----------|
-| — | *(Coming soon)* | — |
-
-<details>
-<summary>Semester reflection</summary>
-
-> *To be updated.*
-
-</details>
-
----
-
-### 🔹 Year 2 · Semester 2
-> *(Subjects to be updated)*
-
-| Code | Subject | Key Work |
-|------|---------|----------|
-| — | *(Coming soon)* | — |
-
-<details>
-<summary>Semester reflection</summary>
-
-> *To be updated.*
-
-</details>
-
----
-
-### 🔹 Year 3 · Semester 1
-> *(Subjects to be updated)*
-
-| Code | Subject | Key Work |
-|------|---------|----------|
-| — | *(Coming soon)* | — |
-
-<details>
-<summary>Semester reflection</summary>
-
-> *To be updated.*
-
-</details>
-
----
-
-### 🔹 Year 3 · Semester 2 — SECP3843
-> Special Topic in Data Engineering · The capstone of my data engineering journey
+> Year 3 · Semester 2 · Special Topic in Data Engineering
 
 | # | Deliverable | Format | Link |
 |---|-------------|--------|------|
@@ -138,13 +67,6 @@ E-Portfolio/
 | — | Project Industry (PPG) | Group industry project | [View →](Y3S2/ProjectIndustry) |
 | — | Project Individual | Individual alternative assessment | [View →](Y3S2/ProjectIndividual) |
 
-<details>
-<summary>Semester reflection</summary>
-
-> *To be updated upon completion of SECP3843.*
-
-</details>
-
 ---
 
 ## ⚙️ Technical Stack
@@ -153,6 +75,8 @@ E-Portfolio/
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -186,5 +110,3 @@ This is not the end of the record. I will continue updating this repository as I
 ---
 
 <p align="right"><sub>Last updated: June 2026 · SECP3843 · UTM</sub></p>
-
-    
