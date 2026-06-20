@@ -1,6 +1,6 @@
 # 📂 Ng Yu Hin — Data Engineering E-Portfolio
 
-> **SECP3843 · Special Topic in Data Engineering · Semester II 2025/2026**  
+> **SECP3843 · Special Topic in Data Engineering · Semester II 2025/2026**
 > Universiti Teknologi Malaysia · Bachelor of Computer Science (Data Engineering)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rick8704-181717?style=flat-square&logo=github)](https://github.com/Rick8704)
@@ -9,7 +9,7 @@
 
 ---
 
-## About Me
+## Who I Am
 
 Third-year Data Engineering student based in Johor Bahru. I build things with data — from raw SQL queries and relational schemas to analytics pipelines and cloud workflows. This portfolio documents what I have built, learned, and reflected on across six semesters at UTM.
 
@@ -21,20 +21,24 @@ I started with the basics: logic gates, C++ console programs, discrete math. By 
 
 ```
 E-Portfolio/
-├── Y1S1/          # Year 1, Semester 1
-├── Y1S2/          # Year 1, Semester 2
-├── Y2S1/          # Year 2, Semester 1
-├── Y2S2/          # Year 2, Semester 2
-├── Y3S1/          # Year 3, Semester 1
-└── Y3S2/          # Year 3, Semester 2 — SECP3843
-    ├── Assignment1-AcademicWriting/
-    ├── Assignment2-Azure/
-    ├── Assignment3-ApacheSpark/
-    ├── Assignment4-AI/
-    ├── IndustryVisit/
-    ├── IndustryTalk/
-    ├── ProjectIndustry/
-    └── ProjectIndividual/
+└── Files/
+    ├── Year 1/
+    │   ├── Semester 1/
+    │   └── Semester 2/
+    ├── Year 2/
+    │   ├── Semester 1/
+    │   └── Semester 2/
+    └── Year 3/
+        ├── Semester 1/
+        └── Semester 2/
+            ├── Assignment1-AcademicWriting/
+            ├── Assignment2-Azure/
+            ├── Assignment3-ApacheSpark/
+            ├── Assignment4-AI/
+            ├── IndustryVisit/
+            ├── IndustryTalk/
+            ├── ProjectIndustry/
+            └── ProjectIndividual/
 ```
 
 ---
@@ -43,29 +47,29 @@ E-Portfolio/
 
 | Period | Subjects | Folder |
 |--------|----------|--------|
-| ![Y1S1](https://img.shields.io/badge/Y1_S1-378ADD?style=flat-square&logoColor=white) | Technology & Information System · Discrete Structure · Digital Logic · Programming Technique I | [Y1S1/ →](Y1S1) |
-| ![Y1S2](https://img.shields.io/badge/Y1_S2-185FA5?style=flat-square&logoColor=white) | Probability & Statistical Data Analysis · Programming Technique II · System Analysis and Design · Computer Organization and Architecture · Human Computer Interaction | [Y1S2/ →](Y1S2) |
-| ![Y2S1](https://img.shields.io/badge/Y2_S1-1D9E75?style=flat-square&logoColor=white) | Data Structure and Algorithm · Database · Software Engineering · System Development Technology · Network Communications | [Y2S1/ →](Y2S1) |
-| ![Y2S2](https://img.shields.io/badge/Y2_S2-0F6E56?style=flat-square&logoColor=white) | Object Oriented Programming · Data Mining · Data Analytics Programming · Operating Systems | [Y2S2/ →](Y2S2) |
-| ![Y3S1](https://img.shields.io/badge/Y3_S1-534AB7?style=flat-square&logoColor=white) | Artificial Intelligence · Database Programming · Enterprise Systems Design and Modeling | [Y3S1/ →](Y3S1) |
-| ![Y3S2](https://img.shields.io/badge/Y3_S2-3C3489?style=flat-square&logoColor=white) | **Special Topic in Data Engineering (SECP3843)** · Application Development · High Performance Data Processing · Business Intelligence | [Y3S2/ →](Y3S2) |
+| ![Y1S1](https://img.shields.io/badge/Y1%20S1-0C447C?style=flat-square) | Technology & Information System · Discrete Structure · Digital Logic · Programming Technique I | [View →](Files/Year%201/Semester%201) |
+| ![Y1S2](https://img.shields.io/badge/Y1%20S2-185FA5?style=flat-square) | Probability & Statistical Data Analysis · Programming Technique II · System Analysis and Design · Computer Organization and Architecture · Human Computer Interaction | [View →](Files/Year%201/Semester%202) |
+| ![Y2S1](https://img.shields.io/badge/Y2%20S1-085041?style=flat-square) | Data Structure and Algorithm · Database · Software Engineering · System Development Technology · Network Communications | [View →](Files/Year%202/Semester%201) |
+| ![Y2S2](https://img.shields.io/badge/Y2%20S2-0F6E56?style=flat-square) | Object Oriented Programming · Data Mining · Data Analytics Programming · Operating Systems | [View →](Files/Year%202/Semester%202) |
+| ![Y3S1](https://img.shields.io/badge/Y3%20S1-3C3489?style=flat-square) | Artificial Intelligence · Database Programming · Enterprise Systems Design and Modeling | [View →](Files/Year%203/Semester%201) |
+| ![Y3S2](https://img.shields.io/badge/Y3%20S2-534AB7?style=flat-square) | **Special Topic in Data Engineering (SECP3843)** · Application Development · High Performance Data Processing · Business Intelligence | [View →](Files/Year%203/Semester%202) |
 
 ---
 
-## 📋 SECP3843 Coursework
+## 🎯 SECP3843 Coursework
 
-> Year 3 · Semester 2 · Special Topic in Data Engineering
+> Special Topic in Data Engineering · Semester II 2025/2026
 
 | # | Deliverable | Format | Link |
 |---|-------------|--------|------|
-| 1 | Academic Writing | Written report | [View →](Y3S2/Assignment1-AcademicWriting) |
-| 2 | Azure Tutorial | Cloud pipeline walkthrough | [View →](Y3S2/Assignment2-Azure) |
-| 3 | Apache Spark Tutorial | Distributed processing tutorial | [View →](Y3S2/Assignment3-ApacheSpark) |
-| 4 | AI Tutorial | Practical AI implementation | [View →](Y3S2/Assignment4-AI) |
-| — | Industry Visit | Site visit reflection | [View →](Y3S2/IndustryVisit) |
-| — | Industry Talk | Talk reflection | [View →](Y3S2/IndustryTalk) |
-| — | Project Industry (PPG) | Group industry project | [View →](Y3S2/ProjectIndustry) |
-| — | Project Individual | Individual alternative assessment | [View →](Y3S2/ProjectIndividual) |
+| 1 | Academic Writing | Written report | [View →](Files/Year%203/Semester%202/Assignment1-AcademicWriting) |
+| 2 | Azure Tutorial | Cloud pipeline walkthrough | [View →](Files/Year%203/Semester%202/Assignment2-Azure) |
+| 3 | Apache Spark Tutorial | Distributed processing tutorial | [View →](Files/Year%203/Semester%202/Assignment3-ApacheSpark) |
+| 4 | AI Tutorial | Practical AI implementation | [View →](Files/Year%203/Semester%202/Assignment4-AI) |
+| — | Industry Visit | Site visit reflection | [View →](Files/Year%203/Semester%202/IndustryVisit) |
+| — | Industry Talk | Talk reflection | [View →](Files/Year%203/Semester%202/IndustryTalk) |
+| — | Project Industry (PPG) | Group industry project | [View →](Files/Year%203/Semester%202/ProjectIndustry) |
+| — | Project Individual | Individual alternative assessment | [View →](Files/Year%203/Semester%202/ProjectIndividual) |
 
 ---
 
