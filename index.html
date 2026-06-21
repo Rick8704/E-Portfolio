@@ -378,6 +378,79 @@
       margin-top: 2rem;
     }
 
+    /* ── Academic Journey Timeline ── */
+    .journey-wrap {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--rule);
+    }
+    .journey-label {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      margin-bottom: 1.75rem;
+    }
+    .timeline {
+      position: relative;
+      padding-left: 1.5rem;
+    }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 6px;
+      bottom: 6px;
+      width: 1px;
+      background: linear-gradient(to bottom, var(--accent), var(--rule));
+    }
+    .tl-item {
+      position: relative;
+      padding-left: 1.75rem;
+      padding-bottom: 2rem;
+      opacity: 0;
+      transform: translateX(-16px);
+      transition: opacity 0.5s ease, transform 0.5s ease;
+    }
+    .tl-item.visible {
+      opacity: 1;
+      transform: none;
+    }
+    .tl-item:last-child { padding-bottom: 0; }
+    .tl-dot {
+      position: absolute;
+      left: -5px;
+      top: 6px;
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: var(--accent);
+      border: 2px solid var(--bg);
+      box-shadow: 0 0 0 1px var(--accent);
+      transition: transform 0.2s;
+    }
+    .tl-item:hover .tl-dot { transform: scale(1.35); }
+    .tl-period {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      color: var(--accent);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 0.2rem;
+    }
+    .tl-title {
+      font-weight: 500;
+      font-size: 0.9rem;
+      color: var(--ink);
+      margin-bottom: 0.2rem;
+    }
+    .tl-sub {
+      font-size: 0.8rem;
+      color: var(--ink-mid);
+      line-height: 1.55;
+    }
+
     .about-text p {
       color: var(--ink-mid);
       margin-bottom: 1rem;
@@ -926,6 +999,15 @@
         gap: 0.5rem;
         text-align: center;
       }
+
+      .stack-row {
+        grid-template-columns: 1fr;
+      }
+      .stack-category {
+        border-right: none;
+        border-bottom: 1px solid var(--rule);
+        padding-bottom: 0.6rem;
+      }
     }
   </style>
 </head>
@@ -1023,6 +1105,43 @@
         </div>
       </div>
     </div>
+
+    <!-- Academic Journey Timeline -->
+    <div class="journey-wrap reveal">
+      <p class="journey-label">Academic Journey</p>
+      <div class="timeline" id="timeline">
+
+        <div class="tl-item">
+          <span class="tl-dot"></span>
+          <div class="tl-period">2022 — Year 1</div>
+          <div class="tl-title">Foundation &amp; Core Fundamentals</div>
+          <div class="tl-sub">Introduced to programming, data structures, mathematics, and the foundations of computer science at UTM. Began building a strong analytical base.</div>
+        </div>
+
+        <div class="tl-item">
+          <span class="tl-dot"></span>
+          <div class="tl-period">2023 — Year 2</div>
+          <div class="tl-title">App Development &amp; Systems Design</div>
+          <div class="tl-sub">Built GeniusAqilos, a cross-platform mobile app using Flutter &amp; Firebase as part of a team. Deepened knowledge in object-oriented design and software engineering principles.</div>
+        </div>
+
+        <div class="tl-item">
+          <span class="tl-dot"></span>
+          <div class="tl-period">2024 — Year 3, Sem 1</div>
+          <div class="tl-title">Database Programming &amp; Enterprise Systems</div>
+          <div class="tl-sub">Mastered advanced SQL, stored procedures, and data modelling. Designed a modular hostel management system (ESDM) and built the KADA All-in-One Financial Platform with PHP &amp; MySQL.</div>
+        </div>
+
+        <div class="tl-item">
+          <span class="tl-dot"></span>
+          <div class="tl-period">2025/2026 — Year 3, Sem 2</div>
+          <div class="tl-title">Special Topics in Data Engineering (SECP3843)</div>
+          <div class="tl-sub">Applied Azure cloud, Apache Spark, and AI workflows in an industry project with PPG. Participated in Edura Varsity Hackathon and UTM X Hackathon, developing fintech solutions with AI-powered features.</div>
+        </div>
+
+      </div>
+    </div>
+
   </section>
 
   <section id="projects">
@@ -1350,19 +1469,24 @@
       });
     }, { passive: true });
 
-    // ── Scroll-reveal via IntersectionObserver ──
+    // ── Scroll-reveal via IntersectionObserver (bidirectional) ──
     const revealEls = document.querySelectorAll('.reveal');
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
+        } else {
+          // Only un-reveal if scrolled above the element (scroll-up effect)
+          const rect = entry.target.getBoundingClientRect();
+          if (rect.top > window.innerHeight * 0.15) {
+            entry.target.classList.remove('visible');
+          }
         }
       });
     }, { threshold: 0.12 });
     revealEls.forEach(el => observer.observe(el));
 
-    // ── Skill tags staggered reveal ──
+    // ── Skill tags staggered reveal (bidirectional) ──
     const skillsList = document.getElementById('skills-list');
     const skillObs = new IntersectionObserver((entries) => {
       if (entries[0].isIntersecting) {
@@ -1370,10 +1494,32 @@
         tags.forEach((tag, i) => {
           setTimeout(() => tag.classList.add('visible'), i * 60);
         });
-        skillObs.unobserve(skillsList);
+      } else {
+        const rect = skillsList.getBoundingClientRect();
+        if (rect.top > window.innerHeight * 0.15) {
+          skillsList.querySelectorAll('.skill-tag').forEach(tag => tag.classList.remove('visible'));
+        }
       }
     }, { threshold: 0.2 });
     skillObs.observe(skillsList);
+
+    // ── Timeline items staggered reveal (bidirectional) ──
+    const timeline = document.getElementById('timeline');
+    if (timeline) {
+      const tlObs = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+          timeline.querySelectorAll('.tl-item').forEach((item, i) => {
+            setTimeout(() => item.classList.add('visible'), i * 120);
+          });
+        } else {
+          const rect = timeline.getBoundingClientRect();
+          if (rect.top > window.innerHeight * 0.15) {
+            timeline.querySelectorAll('.tl-item').forEach(item => item.classList.remove('visible'));
+          }
+        }
+      }, { threshold: 0.1 });
+      tlObs.observe(timeline);
+    }
   </script>
 
 </body>
