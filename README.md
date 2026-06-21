@@ -31,14 +31,7 @@ E-Portfolio/
     └── Year 3/
         ├── Semester 1/
         └── Semester 2/
-            ├── Assignment1-AcademicWriting/
-            ├── Assignment2-Azure/
-            ├── Assignment3-ApacheSpark/
-            ├── Assignment4-AI/
-            ├── IndustryVisit/
-            ├── IndustryTalk/
-            ├── ProjectIndustry/
-            └── ProjectIndividual/
+            
 ```
 
 ---
