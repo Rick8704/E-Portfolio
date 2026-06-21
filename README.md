@@ -49,20 +49,6 @@ E-Portfolio/
 
 ---
 
-## 🎯 SECP3843 Coursework
-
-> Special Topic in Data Engineering · Semester II 2025/2026
-
-| # | Deliverable | Format | Link |
-|---|-------------|--------|------|
-| 1 | Academic Writing | Written report | [View →](Files/Year%203/Semester%202/Assignment1-AcademicWriting) |
-| 2 | Azure Tutorial | Cloud pipeline walkthrough | [View →](Files/Year%203/Semester%202/Assignment2-Azure) |
-| 3 | Apache Spark Tutorial | Distributed processing tutorial | [View →](Files/Year%203/Semester%202/Assignment3-ApacheSpark) |
-| 4 | AI Tutorial | Practical AI implementation | [View →](Files/Year%203/Semester%202/Assignment4-AI) |
-| — | Industry Visit | Site visit reflection | [View →](Files/Year%203/Semester%202/IndustryVisit) |
-| — | Industry Talk | Talk reflection | [View →](Files/Year%203/Semester%202/IndustryTalk) |
-| — | Project Industry (PPG) | Group industry project | [View →](Files/Year%203/Semester%202/ProjectIndustry) |
-| — | Project Individual | Individual alternative assessment | [View →](Files/Year%203/Semester%202/ProjectIndividual) |
 
 ---
 
