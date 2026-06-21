@@ -86,7 +86,7 @@ E-Portfolio/
 
 Three years of coursework have moved me from writing `Hello World` in C++ to building data pipelines in the cloud. What this portfolio cannot fully capture is the number of hours debugging, reading documentation at midnight, and slowly connecting the dots between theory and practice.
 
-SECP3843 — Special Topic in Data Engineering — is where those dots connected most clearly. Working through Azure storage layers, Apache Spark jobs, and AI integration gave me a real sense of what a production data workflow looks like, beyond classroom exercises.
+Working through Azure storage layers, Apache Spark jobs, and AI integration gave me a real sense of what a production data workflow looks like, beyond classroom exercises.
 
 This is not the end of the record. I will continue updating this repository as I complete each deliverable.
 
