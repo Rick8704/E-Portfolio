@@ -218,6 +218,70 @@
       flex-direction: column;
       gap: 0.75rem;
     }
+    /* ── Experience ── */
+    .exp-list { display: flex; flex-direction: column; gap: 1.5rem; margin-top: 2rem; }
+    .exp-card {
+      background: var(--surface);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      padding: 1.75rem 2rem;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.25rem 1.5rem;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .exp-card:hover {
+      border-color: var(--accent);
+      box-shadow: 0 4px 20px rgba(45,106,79,0.08);
+    }
+    .exp-role {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.1rem;
+      line-height: 1.25;
+      color: var(--ink);
+      grid-column: 1;
+    }
+    .exp-org {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      color: var(--accent);
+      letter-spacing: 0.06em;
+      margin-top: 0.15rem;
+      grid-column: 1;
+    }
+    .exp-date {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      color: var(--ink-light);
+      letter-spacing: 0.06em;
+      white-space: nowrap;
+      grid-column: 2;
+      grid-row: 1;
+      align-self: start;
+    }
+    .exp-bullets {
+      list-style: none;
+      margin-top: 1rem;
+      grid-column: 1 / -1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .exp-bullets li {
+      font-size: 0.87rem;
+      color: var(--ink-mid);
+      line-height: 1.65;
+      padding-left: 1.1rem;
+      position: relative;
+    }
+    .exp-bullets li::before {
+      content: '—';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-size: 0.7rem;
+      top: 0.18em;
+    }
     .academics-table { width: 100%; margin-top: 2rem; border-collapse: collapse; }
     .academics-table th {
       text-align: left;
@@ -287,6 +351,7 @@
     <ul class="nav-links">
       <li><a href="#about">About</a></li>
       <li><a href="#projects">Projects</a></li>
+      <li><a href="#experience">Experience</a></li>
       <li><a href="#academics">Academics</a></li>
       <li><a href="#reflection">Reflection</a></li>
     </ul>
@@ -420,8 +485,40 @@
     </div>
   </section>
 
+  <section id="experience">
+    <p class="section-label">03 — Experience</p>
+    <h2>Relevant experience</h2>
+    <div class="exp-list">
+
+      <div class="exp-card">
+        <div class="exp-role">Varsity Hackathon Participant</div>
+        <div class="exp-org">Edura</div>
+        <span class="exp-date">June 2025</span>
+        <ul class="exp-bullets">
+          <li>Led the project demonstration and presentation of PixPay during the hackathon.</li>
+          <li>Developed an AI-powered feature that analysed user spending habits, total savings, transaction history, and overall expenses.</li>
+          <li>Implemented personalised AI-generated financial feedback to help users improve spending and saving behaviour.</li>
+          <li>Collaborated with team members to design a fintech-oriented payment solution under time constraints.</li>
+        </ul>
+      </div>
+
+      <div class="exp-card">
+        <div class="exp-role">UTM X Hackathon Participant</div>
+        <div class="exp-org">PixPay</div>
+        <span class="exp-date">May 2026</span>
+        <ul class="exp-bullets">
+          <li>Focused primarily on UI/UX design to create an intuitive and user-friendly educational platform.</li>
+          <li>Assisted in backend development using Laravel framework and Bootstrap under guidance.</li>
+          <li>Collaborated with team members to improve system usability, responsiveness, and overall user experience.</li>
+          <li>Contributed to feature planning and rapid prototype development during the hackathon competition.</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
   <section id="academics">
-    <p class="section-label">03 — Academics</p>
+    <p class="section-label">04 — Academics</p>
     <h2>Courses & learning</h2>
     <table class="academics-table">
       <thead>
@@ -474,7 +571,7 @@
   </section>
 
   <section id="reflection">
-    <p class="section-label">04 — Reflection</p>
+    <p class="section-label">05 — Reflection</p>
     <h2>What I've learned</h2>
     <div class="reflection-block">
       <p>This semester has been among the most applied of my degree. Working through Special Topics in Data Engineering pushed me to connect the dots between tools I'd studied separately — Azure's cloud infrastructure, Spark's distributed processing, and AI workflows — and see how they form a coherent data engineering stack.</p>
