@@ -586,6 +586,8 @@ h2 {
   grid-template-columns: 1fr auto;
   gap: 0.25rem 1.5rem;
   transition: border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+  text-decoration: none;
+  color: inherit;
 }
 
 .exp-card:hover {
