@@ -96,10 +96,10 @@ This is not the end of the record. I will continue updating this repository as I
 
 | | |
 |---|---|
-| 🌐 **Portfolio Website** | [rick8704.github.io/E-Portfolio](https://rick8704.github.io/E-Portfolio) |
-| 🐙 **GitHub Profile** | [github.com/Rick8704](https://github.com/Rick8704) |
-| 📁 **E-Portfolio Repository** | [Rick8704/E-Portfolio](https://github.com/Rick8704/E-Portfolio) |
-| 💼 **LinkedIn Profile** | [linkedin.com/in/ngyuhin](https://www.linkedin.com/in/ngyuhin/) |
+| 🌐 **Portfolio Website** | [Visit](https://rick8704.github.io/E-Portfolio) |
+| 🐙 **GitHub Profile** | [Visit](https://github.com/Rick8704) |
+| 📁 **E-Portfolio Repository** | [Visit](https://github.com/Rick8704/E-Portfolio) |
+| 💼 **LinkedIn Profile** | [Visit](https://www.linkedin.com/in/ngyuhin/) |
 
 ---
 
