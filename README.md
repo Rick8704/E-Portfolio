@@ -1,6 +1,6 @@
-# 📂 Ng Yu Hin — Data Engineering E-Portfolio
+# 📂 Ng Yu Hin — E-Portfolio
 
-> **SECP3843 · Special Topic in Data Engineering · Semester II 2025/2026**
+
 > Universiti Teknologi Malaysia · Bachelor of Computer Science (Data Engineering)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rick8704-181717?style=flat-square&logo=github)](https://github.com/Rick8704)
@@ -92,13 +92,13 @@ This is not the end of the record. I will continue updating this repository as I
 
 ---
 
-## 🔗 Profiles and Contact
+## 🔗 Contact
 
-- 🌐  — [**Portfolio Website**](https://rick8704.github.io/E-Portfolio)
-- 🐙  — [**GitHub Profile**](https://github.com/Rick8704)
-- 📁  — [**E-Portfolio Repository**](https://rick8704.github.io/E-Portfolio)
-- 💼  — [**LinkedIn Profile**](https://www.linkedin.com/in/ngyuhin/)
+- 🌐  [**Portfolio Website**](https://rick8704.github.io/E-Portfolio)
+- 🐙  [**GitHub Profile**](https://github.com/Rick8704)
+- 📁  [**E-Portfolio Repository**](https://rick8704.github.io/E-Portfolio)
+- 💼  [**LinkedIn Profile**](https://www.linkedin.com/in/ngyuhin/)
 
 ---
 
-<p align="right"><sub>Last updated: June 2026 · SECP3843 · UTM</sub></p>
+<p align="right"><sub>Based on the evidence currently available in this repository.</sub></p>
