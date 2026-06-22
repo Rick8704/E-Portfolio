@@ -1,6 +1,5 @@
-# 📂 Ng Yu Hin — Data Engineering E-Portfolio
+# 📂 Ng Yu Hin — E-Portfolio
 
-> **SECP3843 · Special Topic in Data Engineering · Semester II 2025/2026**
 > Universiti Teknologi Malaysia · Bachelor of Computer Science (Data Engineering)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rick8704-181717?style=flat-square&logo=github)](https://github.com/Rick8704)
@@ -46,7 +45,7 @@ E-Portfolio/
 | ![Y2S1](https://img.shields.io/badge/Y2%20S1-085041?style=flat-square) | Data Structure and Algorithm · Database · Software Engineering · System Development Technology · Network Communications | [View →](Files/Year%202/Semester%201) |
 | ![Y2S2](https://img.shields.io/badge/Y2%20S2-0F6E56?style=flat-square) | Object Oriented Programming · Data Mining · Data Analytics Programming · Operating Systems | [View →](Files/Year%202/Semester%202) |
 | ![Y3S1](https://img.shields.io/badge/Y3%20S1-3C3489?style=flat-square) | Artificial Intelligence · Database Programming · Enterprise Systems Design and Modeling | [View →](Files/Year%203/Semester%201) |
-| ![Y3S2](https://img.shields.io/badge/Y3%20S2-534AB7?style=flat-square) | **Special Topic in Data Engineering (SECP3843)** · Application Development · High Performance Data Processing · Business Intelligence | [View →](Files/Year%203/Semester%202) |
+| ![Y3S2](https://img.shields.io/badge/Y3%20S2-534AB7?style=flat-square) | Special Topic in Data Engineering (SECP3843) · Application Development · High Performance Data Processing · Business Intelligence | [View →](Files/Year%203/Semester%202) |
 
 ---
 
