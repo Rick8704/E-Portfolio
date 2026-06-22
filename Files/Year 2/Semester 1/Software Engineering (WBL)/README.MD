@@ -8,7 +8,11 @@ This work-based learning course introduced structured software development pract
 
 ## 📂 Work
 
-No assignment or lab subfolders recorded for this course.
+| Project | Repository |
+|---|---|
+| KADA Financial System | [github.com/lauyankai/KADA-system](https://github.com/lauyankai/KADA-system) |
+
+A cooperative financial management system built for Koperasi KADA Kelantan — developed as the WBL team project. The system manages member records, financial transactions, loan tracking, and reporting through a structured web application built collaboratively across the semester.
 
 ---
 

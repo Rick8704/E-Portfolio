@@ -1,6 +1,6 @@
 # ⚙️ Year 2 — Semester 1
 
-This semester introduced data structures and algorithms, database fundamentals, network communications, and software engineering — all with applied work-based learning components.
+This semester introduced data structures and algorithms, database fundamentals, network communications, system development, and software engineering — all with applied work-based learning components.
 
 ---
 
@@ -11,6 +11,7 @@ This semester introduced data structures and algorithms, database fundamentals, 
 | Data Structures & Algorithms | [Open course](Data%20Structures%20%26%20Algorithms/) |
 | Database (WBL) | [Open course](Database%20%28WBL%29/) |
 | Network Communications | [Open course](Network%20Communications/) |
+| System Development Technology | [Open course](System%20Development%20Technology/) |
 | Software Engineering (WBL) | [Open course](Software%20Engineering%20%28WBL%29/) |
 
 ---
@@ -21,7 +22,7 @@ Data Structures & Algorithms provided essential tools for organising and process
 
 Database (WBL) was the first deep engagement with relational databases — entity-relationship modelling, SQL, normalisation, and query optimisation. The WBL component connected classroom theory to realistic database design scenarios.
 
-Network Communications introduced the layered model of how data travels across networks, covering protocols, addressing, routing, and security basics. Software Engineering (WBL) covered structured approaches to developing software — requirements, design patterns, version control, and testing practices applied to a team project.
+Network Communications introduced the layered model of how data travels across networks, covering protocols, addressing, routing, and security basics. System Development Technology applied these foundations to a real client project — the KADA Financial System — combining analysis, design, and team delivery for an actual cooperative organisation. Software Engineering (WBL) formalised those practices further, covering requirements engineering, version control, and testing applied to structured team-based development.
 
 ---
 
