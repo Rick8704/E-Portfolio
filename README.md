@@ -49,8 +49,17 @@ E-Portfolio/
 
 ---
 
+## 🔗 Contact
+
+| | Link |
+|---|---|
+| 🌐 Portfolio Website | [rick8704.github.io/E-Portfolio](https://rick8704.github.io/E-Portfolio) |
+| 🐙 GitHub Profile | [github.com/Rick8704](https://github.com/Rick8704) |
+| 📁 E-Portfolio Repository | [Rick8704/E-Portfolio](https://github.com/Rick8704/E-Portfolio) |
+| 💼 LinkedIn Profile | [linkedin.com/in/yu-hin-ng-475777298](https://www.linkedin.com/in/yu-hin-ng-475777298/) |
 
 ---
+
 
 ## ⚙️ Technical Stack
 
