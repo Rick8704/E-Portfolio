@@ -33,4 +33,4 @@ Working across Flutter, Firebase, Power BI, Alteryx, Python, Spark, Azure, DuckD
 
 ---
 
-<p align="right"><sub><a href="../README.md">← Back to Year 3</a></sub></p>
+<p align="left"><sub><a href="../README.md">← Back to Year 3</a></sub></p>

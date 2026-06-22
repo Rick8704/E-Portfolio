@@ -34,4 +34,4 @@ Artificial Intelligence opened a new perspective on how systems can make decisio
 
 ---
 
-<p align="right"><sub><a href="../README.md">← Back to Year 3</a></sub></p>
+<p align="left"><sub><a href="../README.md">← Back to Year 3</a></sub></p>

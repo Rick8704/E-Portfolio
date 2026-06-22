@@ -11,4 +11,4 @@ Year 3 brings together all prior learning — applying databases, AI, enterprise
 
 ---
 
-<p align="right"><sub><a href="../../README.md">← Back to E-Portfolio</a></sub></p>
+<p align="left"><sub><a href="../../README.md">← Back to E-Portfolio</a></sub></p>

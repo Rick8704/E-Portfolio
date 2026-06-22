@@ -33,4 +33,4 @@ This semester taught me that every layer of computing — from logic gates to in
 
 ---
 
-<p align="right"><sub><a href="../README.md">← Back to Year 1</a></sub></p>
+<p align="left"><sub><a href="../README.md">← Back to Year 1</a></sub></p>

@@ -35,4 +35,4 @@ By the end of this semester, I had a much stronger sense of the tools and practi
 
 ---
 
-<p align="right"><sub><a href="../README.md">← Back to Year 2</a></sub></p>
+<p align="left"><sub><a href="../README.md">← Back to Year 2</a></sub></p>

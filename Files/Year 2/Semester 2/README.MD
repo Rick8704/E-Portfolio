@@ -35,4 +35,4 @@ Operating Systems was demanding but valuable. Understanding how processes and me
 
 ---
 
-<p align="right"><sub><a href="../README.md">← Back to Year 2</a></sub></p>
+<p align="left"><sub><a href="../README.md">← Back to Year 2</a></sub></p>

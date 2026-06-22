@@ -36,4 +36,4 @@ By the end of Year 1, I had a clearer picture of where my interests lay — towa
 
 ---
 
-<p align="right"><sub><a href="../README.md">← Back to Year 1</a></sub></p>
+<p align="left"><sub><a href="../README.md">← Back to Year 1</a></sub></p>

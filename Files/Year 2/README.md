@@ -11,4 +11,4 @@ Year 2 shifted the focus towards data-centric computing — introducing database
 
 ---
 
-<p align="right"><sub><a href="../../README.md">← Back to E-Portfolio</a></sub></p>
+<p align="left"><sub><a href="../../README.md">← Back to E-Portfolio</a></sub></p>
