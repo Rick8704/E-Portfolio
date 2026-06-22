@@ -2,7 +2,7 @@
 
 **Year 2 · Semester 1**
 
-This course covered the principles and practices of developing real-world software systems — applying structured development methods, system design, and team collaboration to deliver a working application for an actual client.
+This course introduced the principles and practices of structured system development — covering software development methodologies, requirements analysis, system modelling, and the application of development frameworks to a real team project.
 
 ---
 
@@ -12,25 +12,25 @@ This course covered the principles and practices of developing real-world softwa
 |---|---|
 | KADA Financial System | [github.com/lauyankai/KADA-system](https://github.com/lauyankai/KADA-system) |
 
-A cooperative financial management system built for Koperasi KADA Kelantan. The system handles member accounts, loan management, savings records, transactions, and financial reporting through a structured web application.
+A cooperative financial management system developed for Koperasi KADA Kelantan. The system manages member accounts, loan records, share transactions, and financial reporting for a real cooperative organisation.
 
 ---
 
 ## 📖 What I Learned
 
-System Development Technology applied a structured process to building software for a real organisation. I learned to translate client requirements into a working system — progressing through analysis, design, implementation, and testing in a team setting. Working with an actual cooperative gave the development process genuine purpose and accountability.
+System Development Technology provided a structured approach to building software systems from initial analysis through to implementation. I learned to apply development methodologies — covering requirements elicitation, system modelling, and iterative development practices — to a real project in a team context.
 
-The course reinforced how requirements evolve during development, and how consistent communication between the development team and the client is essential to delivering a system that meets real needs.
+The KADA project required translating real organisational requirements into a working system, making design decisions that had direct consequences for how well the software served its users. Working through a full development cycle — from understanding the client's needs to delivering a functional product — gave me a much clearer picture of what software development involves beyond writing code.
 
 ---
 
 ## 💭 Reflection
 
-**What I gained:** Practical experience developing software for a real client under actual requirements. The KADA system was not a classroom exercise — it had real users, real data, and real expectations. That context made every decision — about features, data handling, and interface design — feel consequential in a way that simulated projects do not.
+**What I gained:** Experience applying a structured development process to a real project with real users and real requirements. The gap between what a client says they need and what they actually need — and learning to close that gap through careful analysis — was the most valuable lesson of this course.
 
-**Suggestions for improvement:** More structured client meeting documentation — minutes, requirement change logs, and approval records — would prepare students better for professional practice. In real projects, decisions made verbally need to be recorded and agreed formally.
+**Suggestions for improvement:** Earlier exposure to iterative feedback from the client during development would improve the final product significantly. Discovering requirement misunderstandings late in development is costly and avoidable with more frequent check-ins.
 
-**Other thoughts:** Building the KADA system was one of the most meaningful team experiences of Year 2. Seeing a working application used by an actual organisation is a different kind of satisfaction from passing an assessment. It reinforced why software development, done properly, creates genuine value.
+**Other thoughts:** System Development Technology reinforced that technical skill alone is not enough to build good software. Understanding the problem domain, communicating with stakeholders, and managing scope and change are equally important — and often harder. The KADA project made all of that concrete.
 
 ---
 
