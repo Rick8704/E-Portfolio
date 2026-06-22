@@ -8,7 +8,11 @@ This course covered mobile application development using Flutter and Dart — in
 
 ## 📂 Work
 
-No assignment or lab subfolders recorded for this course.
+| Project | Repository |
+|---|---|
+| GeniusAqilos — Mobile App | [github.com/brendan-chia/App-Development-_GENIUSAQILOS](https://github.com/brendan-chia/App-Development-_GENIUSAQILOS) |
+
+A cross-platform mobile application built with Flutter and Dart. The app integrates Firebase Authentication, Firestore real-time database, and role-based access control, with a focus on delivering a smooth and intuitive user experience across Android and iOS.
 
 ---
 
