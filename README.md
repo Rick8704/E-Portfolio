@@ -4,6 +4,7 @@
 > Universiti Teknologi Malaysia · Bachelor of Computer Science (Data Engineering)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rick8704-181717?style=flat-square&logo=github)](https://github.com/Rick8704)
+[![E-Portfolio Website](https://img.shields.io/badge/E--Portfolio-6c63ff?style=flat&logo=google-chrome&logoColor=white)](https://rick8704.github.io/E-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ngyuhin-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ngyuhin/)
 [![Email](https://img.shields.io/badge/Email-ngyuhin2004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ngyuhin2004@gmail.com)
 
