@@ -11,7 +11,7 @@
 
 ## About Me
 
-Third-year Data Engineering student based in Johor Bahru. I build things with data — from raw SQL queries and relational schemas to analytics pipelines and cloud workflows. This portfolio documents what I have built, learned, and reflected on across six semesters at UTM.
+Third-year Data Engineering student based in Johor Bahru. I build things with data from raw SQL queries and relational schemas to analytics pipelines and cloud workflows. This portfolio documents what I have built, learned, and reflected on across six semesters at UTM.
 
 I started with the basics: logic gates, C++ console programs, discrete math. By Year 3, I was working with distributed processing, cloud storage layers, and AI-assisted pipelines. This repository is that story, told semester by semester.
 
@@ -96,9 +96,9 @@ This is not the end of the record. I will continue updating this repository as I
 
 - 🌐  [**Portfolio Website**](https://rick8704.github.io/E-Portfolio)
 - 🐙  [**GitHub Profile**](https://github.com/Rick8704)
-- 📁  [**E-Portfolio Repository**](https://rick8704.github.io/E-Portfolio)
+- 📁  [**E-Portfolio Repository**](https://github.com/Rick8704/E-Portfolio)
 - 💼  [**LinkedIn Profile**](https://www.linkedin.com/in/ngyuhin/)
 
 ---
 
-<p align="right"><sub>Based on the evidence currently available in this repository.</sub></p>
+<p align="right"><sub>Based on the available evidence in this repository.</sub></p>
