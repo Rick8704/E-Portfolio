@@ -8,7 +8,11 @@ This course extended C++ programming into object-oriented concepts — classes, 
 
 ## 📂 Work
 
-No assignment or lab subfolders recorded for this course.
+### 📁 Project
+
+| File | Description |
+|---|---|
+| `PT2 PROJECT (2).pdf` | Final project submission |
 
 ---
 

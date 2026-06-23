@@ -8,7 +8,13 @@ This course examined how operating systems manage hardware resources — coverin
 
 ## 📂 Work
 
-No assignment or lab subfolders recorded for this course.
+### 🧪 Labs
+
+| File | Description |
+|---|---|
+| `os-lab-assessment01-Ng Yu Hin-A23CS0148.pdf` | Lab Assessment 1 submission |
+| `os_lab_assessment02_NG_YU_HIN_A23CS0148.pdf` | Lab Assessment 2 submission |
+| `os-lab-assessment03-NG YU HIN-A23CS0148.pdf` | Lab Assessment 3 submission |
 
 ---
 

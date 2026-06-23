@@ -8,12 +8,18 @@ This course introduced how data is transmitted across networks — covering the 
 
 ## 📂 Work
 
+### 🧪 Labs
+
 | File | Description |
 |---|---|
 | `Lab1_NG YU HIN.pdf` | Lab 1 submission — network fundamentals |
-| `NG YU HIN LAB2 Packet Tracer Simulation - Exploration.pdf` | Lab 2 Packet Tracer simulation and exploration |
+| `NG YU HIN LAB2 Packet Tracer Simulation - Exploration of TCP and UDP Communication.pdf` | Lab 2 Packet Tracer simulation and exploration |
 | `LAB 3 NETCOM.pdf` | Lab 3 submission |
 | `Lab_4_1_Student_NG YU HIN.pdf` | Lab 4 submission |
+
+### 📁 [Project](Project/README.MD)
+
+A series of progressive network configuration and simulation tasks using Cisco Packet Tracer — covering setup, routing, switching, and protocol analysis across 5 tasks.
 
 ---
 
