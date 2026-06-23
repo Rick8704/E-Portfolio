@@ -18,4 +18,14 @@ This project involved a series of progressive network configuration and simulati
 
 ---
 
+## 💭 Reflection
+
+**What I gained:** Working through a structured sequence of network tasks — from basic setup to full implementation — forced me to apply each concept in a practical context rather than just understanding it theoretically. Configuring routing, addressing, and switching in Packet Tracer made abstract protocol behaviour visible and debuggable.
+
+**Challenges faced:** Identifying misconfigured routing tables and understanding why packets were being dropped required careful use of Packet Tracer's simulation mode. Tracing packet paths step by step through each OSI layer was initially time-consuming, but it built a strong intuition for diagnosing network faults.
+
+**Other thoughts:** Completing the project incrementally — each task building on the last — gave me a realistic sense of how network infrastructure grows in complexity. That incremental approach mirrors how real network deployments are planned and expanded.
+
+---
+
 <p align="left"><sub><a href="../README.MD">← Back to Network Communications</a></sub></p>
