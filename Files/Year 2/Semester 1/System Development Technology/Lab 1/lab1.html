@@ -1,0 +1,98 @@
+<html>
+
+    <head>
+        <title>Lab1</title> 
+    </head>
+
+    <body style="background-color:#fff8e8; text-align: center;">
+        <img src="logo_utm.png" alt="This is UTM Logo" width="300" height="100" >
+        <h1 style="background-color:#FFEAC5;">Student Registration Form</h1>
+        <p><b>Student Personal Details:</b></p>
+
+        <form action="" method="post">
+            <label>Full Name: </label>
+            <input type="text" id="name" name="name" required> <br>
+
+            <label>Student ID: </label>
+            <input type="text" id="name" name="name" required> <br>
+
+            <label>Email Address: </label>
+            <input type="email" id="name" name="name" required> <br>
+
+            <label>Phone Number: </label>
+            <input type="text" id="name" name="name" required> <br><br>
+            
+            <label>Gender: </label> <br>
+            <input type="radio" id="male" name="gender" value="Male">
+            <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="Female">
+            <label for="female">Female</label><br> <br>
+
+            <label for="birthday">Date of Birth: </label>
+            <input type="date" id="birthday" name="birthday"><br>
+
+            <p><b>Academic Information: </b></p>
+            <label for="program">Program of Study: </label>
+            <select name="program" id="program">
+                <option value="">Select a program</option>
+                <option value="se">Software Engineering</option>
+                <option value="de">Data Engineering</option>
+                <option value="ns">Network Security</option>
+                <option value="bi">Bioinformatics</option>
+                <option value="mg">Multimedia Graphics</option>
+            </select>
+            <br>
+            <label for="year">Year of Study: </label>
+            <select name="year" id="year">
+                <option value="">Select year of study</option>
+                <option value="y1">Year 1</option>
+                <option value="y2">Year 2</option>
+                <option value="y3">Year 3</option>
+                <option value="y4">Year 4</option>
+            </select>
+
+            <p><b>Subjects Selection: </b></p>
+            <table align="center">
+                <tr>
+                    <td>
+                    <input type="checkbox" id="subject1" name="subject1" value="DSA">
+                    <label for="subject1">Data Structure & Algorithm</label>
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>    
+                    <input type="checkbox" id="subject2" name="subject2" value="DB">
+                    <label for="subject2">Database</label>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                    <input type="checkbox" id="subject3" name="subject3" value="NC">
+                    <label for="subject3">Network Communications</label>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                    <input type="checkbox" id="subject4" name="subject4" value="SDT">
+                    <label for="subject4">System Development Technology</label>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                    <input type="checkbox" id="subject5" name="subject5" value="SE">
+                    <label for="subject5">Software Engineering</label>
+                    </td>
+                </tr>
+
+            </table><br>
+
+            <button type="reset">Reset</button>
+            <button type="submit">Submit</button>
+        </form>
+
+    </body>
+</html>
